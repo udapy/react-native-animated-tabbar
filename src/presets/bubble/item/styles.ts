@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
   },
   labelContainer: {
     position: 'absolute',
-    alignSelf: 'flex-end',
+    alignSelf: 'flex-start',
     justifyContent: 'center',
     top: 0,
     bottom: 0,
